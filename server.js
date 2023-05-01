@@ -20,3 +20,4 @@ async function getData() {
   }
 }
 getData();
+console.log("github'a yüklendi mi?");
